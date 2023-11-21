@@ -1,11 +1,11 @@
-1. Instalar o EJS
+1. Instalar o EJS ✅
 
-npm i ejs
+npm i ejs  
 
-2. instalar o express
+2. instalar o express ✅
 
 npm i express
 
-3. colocar o servidor pra rodar.
+3. colocar o servidor pra rodar. ✅
 
 node server.js
